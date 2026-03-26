@@ -1,0 +1,20 @@
+{
+  "version": "2.0.0-genesis",
+  "project": "DecentraCore_2.0",
+  "founder": "Founder",
+  "ceo": "Gembot_v3.0",
+  "status": "INITIALIZATION",
+  "path_context": "Windows_CMD",
+  "architecture": {
+    "db": "Dexie_IndexedDB",
+    "id_system": "Tamga_UUIDv7",
+    "sync": "Offline_First_LWW"
+  },
+  "structure": [
+    "src/atoms",
+    "src/agents",
+    "src/hooks",
+    "src/components",
+    "knowledge"
+  ]
+}
